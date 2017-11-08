@@ -5,8 +5,8 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 </head>
 <body>
-	<?php echo 'bonjour à tous'; ?>
-	<a href="page2.php">page2</a>
+	<?php echo 'bonjour à tous, ceci est la page 2'; ?>
+	<a href="index.php">home</a>
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
